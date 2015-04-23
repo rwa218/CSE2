@@ -54,7 +54,7 @@ public class RemoveElements {
         for (int i = 0; i < 10; i++){//create for loop
             first[i] =(int) (Math.random()*10);//generate number for each element
         }
-        return first;//return the complete array
+        return first;//return the comp blete array
         
     }
     public static int[] delete(int list[], int pos){//create new method

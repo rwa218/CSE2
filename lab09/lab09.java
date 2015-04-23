@@ -56,7 +56,7 @@ public class lab09 {
             case 9:
                 return "fox";
             case 0:
-                return "tranny";
+                return "kangaroo";
             default:
                 return "fox";
                 
